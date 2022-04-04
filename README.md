@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @j1gs4w-exe
+- 😺 I am into cats uwu
 - 👀 I’m interested in  Programming
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# 
 - 📫 How to reach me at https://j1gs4w-exe.github.io
 
 <!---
