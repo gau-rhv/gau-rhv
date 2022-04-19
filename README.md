@@ -1,4 +1,4 @@
-# it's me j1gs4w 👾
+# その私ジグソー🌸
 
 ![j1gs4w's GitHub stats](https://github-readme-stats.vercel.app/api?username=j1gs4w-exe&show_icons=true&theme=radical)
 
