@@ -1,6 +1,6 @@
 # その私ジグソー🌸
 
-- ## 🌸 I am J1gs4w 
+- ## 👺 I am J1gs4w 
 - ⛩️ I’m a 17 year Old Boy who is into Command Lines and UnixPorn
 - 🧩 I am Basically learning Everything a Computer could offer 😊
 - 🃏 I Develop Malwares and Render 3d art on my free time.
