@@ -2,9 +2,9 @@
 
 - ## 🌸 I am J1gs4w 
 - ⛩️ I’m a 17 year Old Boy who is into Command Lines and UnixPorn
-- 🧩 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🧩 I am Basically learning Everything a Computer could offer 😊
+- 🃏 I Develop Malwares and Render 3d art on my free time.
+- 👻 I am super obssesed with Cats 🐈
 
 ![j1gs4w's GitHub stats](https://github-readme-stats.vercel.app/api?username=j1gs4w-exe&show_icons=true&theme=radical)
 
