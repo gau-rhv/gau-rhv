@@ -50,3 +50,5 @@
 <a href="https://twitter.com/j1gs4w_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j1gs4w_exe" height="30" width="40" /></a>
 <a href="https://instagram.com/j1gs4w.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j1gs4w.exe" height="30" width="40" /></a>
 </p>
+
+## コントロール 
