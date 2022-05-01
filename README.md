@@ -1,4 +1,4 @@
-# その私ジグソー🌸
+# ⸸ ジグソー ⛧🌸
 
 - ##  I am J1gs4w 🧩
 - ⛩️ I’m a 17 year Old Boy who is into Command Lines and UnixPorn
