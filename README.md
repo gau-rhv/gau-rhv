@@ -52,3 +52,5 @@
 </p>
 
 ## コントロール 
+
+"Dont be racist hate everything equally"
