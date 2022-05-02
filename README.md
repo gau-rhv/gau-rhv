@@ -1,7 +1,8 @@
-![dedsec_2_0_generic_hacker_by_junguler-da61r89_gif (1920×881)](https://user-images.githubusercontent.com/102450738/166178135-943b1aac-01fb-4a00-8b6f-a15fa810e3fe.gif)
-
 
 - #       ⸸ ジグソー ⛧🌸
+
+## ![cherry-blossoms-japan](https://user-images.githubusercontent.com/102450738/166179078-54a65fef-2011-4937-baa8-b222cab866ac.gif)
+
 
 - ##  I am Gaurav / J1gs4w 🧩
 - ⛩️ I’m a 17 year Old Boy who is into Command Lines and UnixPorn     
