@@ -1,7 +1,10 @@
+![dedsec_2_0_generic_hacker_by_junguler-da61r89_gif (1920×881)](https://user-images.githubusercontent.com/102450738/166178135-943b1aac-01fb-4a00-8b6f-a15fa810e3fe.gif)
+
+
 - #       ⸸ ジグソー ⛧🌸
 
 - ##  I am Gaurav / J1gs4w 🧩
-- ⛩️ I’m a 17 year Old Boy who is into Command Lines and UnixPorn
+- ⛩️ I’m a 17 year Old Boy who is into Command Lines and UnixPorn     
 - 🧩 I am Basically learning Everything a Computer could offer 😊
 - 🃏 I Develop Malwares and Render 3d art on my free time.
 - 👻 I am super obssesed with Cats 🐈
@@ -52,5 +55,7 @@
 </p>
 
 ## コントロール 
+
+
 
 ## "Dont be racist, hate everything equally !"
