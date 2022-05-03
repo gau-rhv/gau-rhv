@@ -23,7 +23,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
 ##
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +41,6 @@
 
 ##
 ## Learning Blender To create an alternate universe ⛩️ ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
 
 
 <p align="left"> <a href="https://twitter.com/j1gs4w_exe" target="blank"><img src="https://img.shields.io/twitter/follow/j1gs4w_exe?logo=twitter&style=for-the-badge" alt="j1gs4w_exe" /></a> </p>
