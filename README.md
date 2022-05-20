@@ -57,4 +57,4 @@
 
 ## コントロール 
 
-## "Dont be racist, hate everything equally !"
+## "Dont be racist, hate everything equally <3 "
