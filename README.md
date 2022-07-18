@@ -43,7 +43,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ##
-## Learning Blender To create an alternate universe ⛩️ ![Blender](https://img.shields.io/badge/blende
+## Learning Blender To create an alternate universe ⛩️ ![Blender](https://img.shields
 
 
 <p align="left"> <a href="https://twitter.com/j1gs4w_exe" target="blank"><img src="https://img.shields.io/twitter/follow/j1gs4w_exe?logo=twitter&style=for-the-badge" alt="j1gs4w_exe" /></a> </p>
