@@ -7,7 +7,8 @@
 ## ![cherry-blossoms-japan](https://user-images.githubusercontent.com/102450738/166179078-54a65fef-2011-4937-baa8-b222cab866ac.gif)
 
 - ##  I am Gaurav / J1gs4w 🧩
-- ⛩️ I’m a 18 year Old Boy who is into Command Lines and UnixPorn     
+- ⛩️ I’m a 17
+-  year Old Boy who is into Command Lines and UnixPorn     
 - 🧩 I am Basically learning Everything a Computer could offer 😊
 - 🃏 I Develop Malwares and Render 3d art on my free time.
 - 👻 I am super obssesed with Cats 🐈
