@@ -1,14 +1,12 @@
 
 
-- ## " 人種差別主義者にならないで、すべてを平等に憎む "
+❀
 
 ## ![cherry-blossoms-japan](https://user-images.githubusercontent.com/102450738/166179078-54a65fef-2011-4937-baa8-b222cab866ac.gif)
 
 - ##  I am Gaurav Krishn
 - ⛩️ I’m a 19
 -  year Old Boy who is into Command Lines and UnixPorn     
-- 🧩 I am Basically learning Everything a Computer could offer 😊
-- 🃏 I Develop Malwares and Render 3d art on my free time.
 
 
 ## My Github Stats 📈
@@ -53,7 +51,4 @@
 <a href="https://instagram.com/j1gs4w.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j1gs4w.exe" height="30" width="40" /></a>
 </p>
 
-## コントロール 
-
-## "Dont be racist, hate everything equally <3 "
 
